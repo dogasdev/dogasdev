@@ -2,7 +2,7 @@
 
 **``Cursando Ciências da Computação``**
 
-Olá! Me chamo Eduarda — Também conhecida como Dogas — Tenho 18 anos, sou natural de Alagoas Maceió e conclui o ensino médio no CML. Atualmente curso Ciência da Computação na ``UNIT/UNIMA``.
+Olá! Me chamo Eduarda — Também conhecida como Dogas — Tenho 18 anos, sou natural de Maceió e conclui o ensino médio no CML. Atualmente curso Ciência da Computação na ``UNIT/UNIMA``.
 Tenho grande interesse em desenvolvimento FullStack e desenvolvimento de jogos. Planejo utilizar deste espaço github, um portfólio com projetos que irão envolver aplicações web e experiências virtuais de jogos.
 
 ❗*Este repositório reúne meus projetos, estudos e iniciativas pessoais.* 
