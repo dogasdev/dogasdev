@@ -1,49 +1,31 @@
-# Eduarda
+<h1 align="center">dogasdev</h1>
 
-**``Cursando Ciências da Computação``**
+###
 
-Olá! Me chamo Eduarda — Também conhecida como Dogas — Tenho 18 anos, sou natural de Maceió e conclui o ensino médio no CML. Atualmente curso Ciência da Computação na ``UNIT/UNIMA``.
-Tenho grande interesse em desenvolvimento FullStack e desenvolvimento de jogos. Planejo utilizar deste espaço github, um portfólio com projetos que irão envolver aplicações web e experiências virtuais de jogos.
+<p align="center">Olá! Me chamo Eduarda, tenho 20 anos e sou natural de Alagoas.<br><br>Atualmente estou cursando Ciência da Computação na UNIMA e também fazendo um curso de Java.Sempre tive grande interesse na área de tecnologias e estou procurando aperfeiçoar nela através de projetos e trabalhos pessoais.<br><br>Com isso, planejo transformar este espaço em uma espécie de portfólio, reunindo todos os projetos já feitos ou em andamento.</p>
 
-❗*Este repositório reúne meus projetos, estudos e iniciativas pessoais.* 
+###
 
-<p align="left">
-    <a href="https://github.com/dogasdev">
-    <img
-        alt="FOLLOW"
-        title="FOLLOW ME"
-        src="https://custom-icon-badges.demolab.com/github/followers/dogasdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-    </a>
-    <a href="https://github.com/dogasdev?tab=repositories&sort=stargazers">
-    <img
-        alt="estrelas totais"
-        title="Total Stars no GitHub"
-        src="https://custom-icon-badges.demolab.com/github/stars/dogasdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=STARTS"
-    />
-    </a>
-    
---- 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+</div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="10px" style="padding-right: 5px;" />
-  <strong>LANGUAGES AND TOOLS</strong>
-</p>
+###
 
-<img
-    align="left"
-    alt="PYTHON"
-    title="PYTHON"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img
-    align="left"
-    alt="JS"
-    title="JAVA"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dogasdev/dogasdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dogasdev/dogasdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dogasdev/dogasdev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
